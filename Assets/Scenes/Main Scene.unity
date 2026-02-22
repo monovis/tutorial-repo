@@ -721,7 +721,7 @@ GameObject:
   - component: {fileID: 1657624745}
   m_Layer: 0
   m_Name: BossCharacter
-  m_TagString: Enemy
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -774,7 +774,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dfc67d600ec42654798a7c946115a291, type: 2}
+  - {fileID: 2100000, guid: 0e726e62e9cb6c049af3eaae6cdaa68e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
